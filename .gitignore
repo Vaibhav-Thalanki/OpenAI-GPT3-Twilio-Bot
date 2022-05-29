@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+.env
+ngrok.exe
+pyvenv.cfg
+Scripts/
+Lib/
+__pycache__/
